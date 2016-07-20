@@ -1,0 +1,9 @@
+{
+  "generator-mocha": {
+    "ui": "bdd",
+    "rjs": false
+  },
+  "generator-jquery-bootstrap-simple": {
+    "name": "ss"
+  }
+}
